@@ -1,7 +1,6 @@
-(https://github.com/munnadeveloper/munnadeveloper/blob/main/munna-Web-cover.png)
 <h1 align="center">Hi 👋, I'm Maruf Kabir Munna</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
-
+![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munnadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="munnadeveloper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munnadeveloper" alt="munnadeveloper" /></a> </p>
